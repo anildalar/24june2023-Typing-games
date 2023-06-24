@@ -1,0 +1,24 @@
+.a_tbdr{
+    border:1px dashed #000;
+}
+.a_cont{
+    height: 750px;
+}
+.a_mysection{
+    transform: scale(0.8,0.8);
+    border:10px solid #0DCAF0 !important;
+}
+.a_h33{
+    height: 240px;
+}
+.a_h33_c{
+    background-image: url("../img/hand.png");
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center bottom ;
+}
+.a_1{
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/keys/1.png");
+}
